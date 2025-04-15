@@ -1,0 +1,11 @@
+1) created Frontend as usually
+==> Backend
+2) in the backend cmd => npm init
+3) npm i express , nodemon(for auto saving)
+4) npm i mongoose => Manage Database Realted Things
+
+5) create db.js 	=> mongo db connectivity
+6) Remove '/' in the gitignore from node modules otherwise node modules will also be pushed on github
+mongodb://localhost:27017/
+
+7) 
